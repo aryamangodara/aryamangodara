@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
 
-<h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3>
+<h3 align="left">A passionate, self taught Flutter Developer from 🏠Pune, India.</h3>
 <br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/samitkapoor/portfolio)
@@ -28,16 +28,14 @@
 <br>
 
 - 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <br>
-- 🔰 Currently learning node.js and java<br>
+- 🔰 Currently learning DevOps<br>
 - 👀 Constantly looking for projects to work on <br>
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
-- 😄 Take a look at my Flutter packages 👇 <br>
-  - country_phone_code_picker <A href="https://pub.dev/packages/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
-  - fading_widget_animation <A href="https://pub.dev/packages/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
+- 😄 Take a look at my Flutter projects in repository section<br>
 - 🤝 Let's connect! <br>
-  - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm">Connect on mail</A> <br>
-  - 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
-  - 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
+  - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=aryaman.hisar@gmail.com&tf=cm">Connect on mail</A> <br>
+  - 📸 <A href="https://www.instagram.com/aryamangodara">Connect on Instagram</A> <br>
+  - 👔 <A href="https://www.linkedin.com/in/aryamangodara">Connect on Linkedin</A> <br>
   - 🤗 Talk to me about anything!
 
 ------------------
@@ -70,11 +68,10 @@
 - 📱 Mobile development<br>
 - 💻 Programming<br>
 - 🎮 Video games<br>
-- 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
 - 🏋️‍♂️ Fitness<br>
 - ⚽ Football<br>
-- ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
-- 🎹 Piano<br>
+- ♟️ <A href="https://www.chess.com/member/kingGodara">Chess</A><br>
+- 🏸 Badminton<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
 ### 🎵 Hey Alexa, play - <br>
@@ -94,4 +91,4 @@
 <br>
 
                                                                                             
-<!-- <img align="right" src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" /> -->
+<img align="right" src="https://profile-counter.glitch.me/{aryamangodara}/count.svg" />
