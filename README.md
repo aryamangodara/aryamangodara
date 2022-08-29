@@ -69,10 +69,10 @@
 
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/aryamangodara/aryamangodara/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
   </a>
 </p>     
 <br>
 
                                                                                             
-Just a counter <img align="right" src="https://profile-counter.glitch.me/{aryamangodara}/count.svg" />
+You just did a counter++ <img align="right" src="https://profile-counter.glitch.me/{aryamangodara}/count.svg" />
