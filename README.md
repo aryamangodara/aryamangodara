@@ -75,4 +75,4 @@
 <br>
 
                                                                                             
-<img align="right" src="https://profile-counter.glitch.me/{aryamangodara}/count.svg" />
+Just a counter <img align="left" src="https://profile-counter.glitch.me/{aryamangodara}/count.svg" />
