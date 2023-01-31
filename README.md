@@ -64,17 +64,11 @@
     <img height=90 src="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=novatorem&bar_color=1dd560&bar_color_cover=false">
   </a>
 </p>
-### LeetCode stats
+
+# LeetCode stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/aryamangodara?theme=dark&font=source_code_pro&extension=null)
 
 ------------------
-
-<!-- <p align="left">
-  <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
-  </a>
-</p>     
-<br> -->
 
                                                                                             
 You just did a counter++ <img align="right" src="https://profile-counter.glitch.me/{aryamangodara}/count.svg" />
