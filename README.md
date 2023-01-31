@@ -65,6 +65,7 @@
   </a>
 </p>
 [LeetCode Stats](https://leetcode.card.workers.dev/aryamangodara?theme=dark)
+https://leetcode.card.workers.dev/aryamangodara?theme=dark&font=source_code_pro&extension=null
 
 ------------------
 
