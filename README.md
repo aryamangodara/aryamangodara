@@ -5,7 +5,7 @@ I build production LLM systems: RAG pipelines, agents, and the Python backends t
 
 - 🎓 M.Sc. Data Science, Universität Trier (2026 – present)
 - 💼 Previously AI Engineer at **Visteon** (RAG and LLM applications) and **AP Guru** (AI grading engine, FastAPI backend)
-- 🔭 Currently contributing to [Haystack](https://github.com/deepset-ai/haystack) and [Pydantic AI](https://github.com/pydantic/pydantic-ai)
+- 🔭 Contributing to [Haystack](https://github.com/deepset-ai/haystack) ([merged PRs](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aaryamangodara+is%3Amerged)) and [Pydantic AI](https://github.com/pydantic/pydantic-ai)
 - 🇩🇪 Open to working student and internship roles in AI / ML engineering in Germany
 
 ---
